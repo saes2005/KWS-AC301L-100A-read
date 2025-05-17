@@ -1,6 +1,9 @@
 # KWS-AC301L-100A-read
 read volts,currents,watts
 
+要改匯流排連接埠編號
+檔案路徑
+
 Reference
 
 
